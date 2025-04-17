@@ -6,7 +6,7 @@ execute:
   echo: true
 
 book:
-  title: "YOUR PROJECT TITLE"
+  title: "Test Project"
   author:
     - Addeson Lehv (al4246)
   repo-url: https://github.com/addesonlehv/glowing-octo-dollop.git
@@ -24,7 +24,7 @@ book:
 
 format:
   html:
-    theme: quartz
+    theme: superhero
     code-fold: true
 
 
